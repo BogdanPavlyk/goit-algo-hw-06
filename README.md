@@ -56,4 +56,7 @@ BFS шляхи:
 * ['Anna', 'Charlie', 'Edward', 'Hannah', 'Bob', 'Diana', 'George']
 * ['Anna', 'Fiona', 'Edward', 'Hannah', 'Bob', 'Diana', 'George']
 * ['Anna', 'Charlie', 'Diana', 'Bob', 'Hannah', 'Edward', 'Fiona', 'George']
-* ['Anna', 'Fiona', 'Edward', 'Charlie', 'Diana', 'Bob', 'Hannah', 'George']
+* ['Anna', 'Fiona', 'Edward', 'Charlie', 'Diana', 'Bob', 'Hannah', 'George']\
+
+![alt text](image-1.png)
+![alt text](image-2.png)
